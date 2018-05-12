@@ -1,0 +1,39 @@
+_repo: The-Tale-of-Frisky-Squirrel_18630
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Fagan, Eleanore
+    alias: Fagan, Eleanor
+    gutenberg_agent_id: '26633'
+    url: http://www.gutenberg.org/2009/agents/26633
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Bailey, Arthur Scott
+    birthdate: 1877
+    deathdate: 1949
+    gutenberg_agent_id: '1842'
+    url: http://www.gutenberg.org/2009/agents/1842
+    wikipedia: http://en.wikipedia.org/wiki/Arthur_Scott_Bailey
+description: The second in Arthur Scott Bailey's Sleepy-Time Tales series, this edition
+  features 23 stories of lively little Frisky Squirrel. Frisky's adventures in meadows
+  and forests offer wonderful glimpses of woodland life and simple lessons about honesty,
+  bravery, and other virtues. Includes black-and-white versions of Harry L. Smith's
+  memorable illustrations from the original edition.
+gutenberg_bookshelf: Children's Book Series
+gutenberg_issued: '2006-06-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '18630'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'Squirrels -- Juvenile fiction'
+- !lcsh 'Animals -- Juvenile fiction'
+title: The Tale of Frisky Squirrel
+url: http://www.gutenberg.org/ebooks/18630
